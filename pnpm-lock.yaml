@@ -195,8 +195,6 @@ packages:
   '@astrojs/sitemap@3.1.5':
     resolution: {integrity: sha512-GLdzJ01387Uzb8RKYpsYLlg/GzoPnGbmDeQNkarSE11i2+l9Qp8Nj/WoTEy9nkTS25fxxy0kxDfJmreeVleCqg==}
 
-  '@astrojs/studio@0.1.0':
-    resolution: {integrity: sha512-pjggMFgtZHPem6RWall02DTa54VCQ4fjqj4bLV0CpQEi0ydgDlughb81PtLhpQPTV0IUtTFOnHbzx6rcKMBAzg==}
 
   '@astrojs/tailwind@5.1.0':
     resolution: {integrity: sha512-BJoCDKuWhU9FT2qYg+fr6Nfb3qP4ShtyjXGHKA/4mHN94z7BGcmauQK23iy+YH5qWvTnhqkd6mQPQ1yTZTe9Ig==}
@@ -3619,8 +3617,6 @@ snapshots:
 
   '@astrojs/db@0.11.4(@types/react@18.3.3)(react@18.3.1)':
     dependencies:
-      '@astrojs/studio': 0.1.0
-      '@libsql/client': 0.6.0
       async-listen: 3.0.1
       ci-info: 4.0.0
       deep-diff: 1.0.2
